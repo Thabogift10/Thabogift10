@@ -1,8 +1,8 @@
-# Hi 👋, I'm Thabo Lubhele
+# Hi 👋, I'm Thabo Gift Lubhele
 
-### Software Developer | Final-Year ICT: Application Development Student
+### Software Developer | ICT: Application Development Student
 
-I'm a final-year Diploma in ICT: Application Development student at the University of Mpumalanga (completing October 2026), with hands-on experience building REST APIs, microservices, full-stack web apps and mobile applications. I also hold a Higher Certificate in ICT: User Support (NQF Level 5, awarded May 2024).
+Application Development student at the University of Mpumalanga , with hands-on experience building REST APIs, microservices, full-stack web apps and mobile applications. I also hold a Higher Certificate in ICT: User Support (NQF Level 5, awarded May 2024).
 
 I've completed the **FNB App Academy (Full-Stack Development)** and **WeThinkCode's GenAI for Software Engineers** programme, and I'm actively building my skills toward AI-powered software development.
 
