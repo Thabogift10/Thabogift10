@@ -1,4 +1,4 @@
-# Hi 👋, I'm Thabo Gift Lubhele
+# Hi, I'm Thabo Gift Lubhele
 
 ### Software Developer | ICT: Application Development Student
 
